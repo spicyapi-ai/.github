@@ -84,20 +84,20 @@ us a `callBackUrl` and we will tell you.
 
 | Language | Install | Source |
 |:--|:--|:--|
-| **TypeScript** | `npm i @spicyapi/sdk` | [spicy-sdk](https://github.com/Spicy-API/spicy-sdk) |
-| **Go** | `go get github.com/Spicy-API/spicy-go` | [spicy-go](https://github.com/Spicy-API/spicy-go) |
-| **Python** | from source for now | [spicy-python](https://github.com/Spicy-API/spicy-python) |
-| **PHP** | from source for now | [spicy-php](https://github.com/Spicy-API/spicy-php) |
-| **Java** | from source for now | [spicy-java](https://github.com/Spicy-API/spicy-java) |
+| **TypeScript** | `npm i @spicyapi/sdk` | [spicy-sdk](https://github.com/spicyapi-ai/spicy-sdk) |
+| **Go** | `go get github.com/spicyapi-ai/spicy-go` | [spicy-go](https://github.com/spicyapi-ai/spicy-go) |
+| **Python** | from source for now | [spicy-python](https://github.com/spicyapi-ai/spicy-python) |
+| **PHP** | from source for now | [spicy-php](https://github.com/spicyapi-ai/spicy-php) |
+| **Java** | from source for now | [spicy-java](https://github.com/spicyapi-ai/spicy-java) |
 
 ### For agents and the terminal
 
 | | | Source |
 |:--|:--|:--|
-| **CLI** | `npx @spicyapi/cli status` — no key required | [spicy-cli](https://github.com/Spicy-API/spicy-cli) |
-| **MCP server** | lets an agent inspect models and generate media itself | [spicy-mcp](https://github.com/Spicy-API/spicy-mcp) |
-| **Agent Skill** | teaches Claude to drive any of the above | [spicy-skill](https://github.com/Spicy-API/spicy-skill) |
-| **Proxy** | call us from a browser app without shipping your key | [spicy-proxy](https://github.com/Spicy-API/spicy-proxy) |
+| **CLI** | `npx @spicyapi/cli status` — no key required | [spicy-cli](https://github.com/spicyapi-ai/spicy-cli) |
+| **MCP server** | lets an agent inspect models and generate media itself | [spicy-mcp](https://github.com/spicyapi-ai/spicy-mcp) |
+| **Agent Skill** | teaches Claude to drive any of the above | [spicy-skill](https://github.com/spicyapi-ai/spicy-skill) |
+| **Proxy** | call us from a browser app without shipping your key | [spicy-proxy](https://github.com/spicyapi-ai/spicy-proxy) |
 
 <br>
 
