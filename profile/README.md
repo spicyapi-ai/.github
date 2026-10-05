@@ -88,7 +88,7 @@ us a `callBackUrl` and we will tell you.
 | **Go** | `go get github.com/spicyapi-ai/spicy-go` | [spicy-go](https://github.com/spicyapi-ai/spicy-go) |
 | **Python** | `pip install spicyapi` | [spicy-python](https://github.com/spicyapi-ai/spicy-python) |
 | **PHP** | from source for now | [spicy-php](https://github.com/spicyapi-ai/spicy-php) |
-| **Java** | from source for now | [spicy-java](https://github.com/spicyapi-ai/spicy-java) |
+| **Java** | Maven `ai.spicyapi:spicyapi-java` | [spicy-java](https://github.com/spicyapi-ai/spicy-java) |
 
 ### For agents and the terminal
 
