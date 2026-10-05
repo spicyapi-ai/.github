@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/331549122?s=200&v=4" alt="SpicyAPI" width="88" height="88">
+<img src="https://avatars.githubusercontent.com/u/338186716?s=200&v=4" alt="SpicyAPI" width="88" height="88">
 
 # SpicyAPI
 
-### One API for image, video and text models — including the uncensored ones
+### One API for image, video, audio and text models — including the uncensored ones
 
-**80+ model families · 100+ endpoints · priced in dollars, not credits**
+**140+ model families · 210+ endpoints · priced in dollars, not credits**
 
 [**Get an API key**](https://spicyapi.ai) &nbsp;·&nbsp; [Models](https://spicyapi.ai/models) &nbsp;·&nbsp; [Documentation](https://docs.spicyapi.ai) &nbsp;·&nbsp; [Status](https://status.spicyapi.ai)
 
@@ -54,12 +54,12 @@ Media generation is asynchronous everywhere, so it behaves the same everywhere: 
 
 | | |
 |:--|:--|
-| 🎬 **Video** | Text-to-video, image-to-video, reference-to-video, up to 4K<br><sub>Seedance 2.5 · Seedance 2.0 · MiniMax H3 · Wan 2.7 · LTX 2.5 · Vidu Q3 · Krea 2 · HappyHorse 1.1</sub> |
-| 🎨 **Image** | Generation, editing, face and head swap<br><sub>Seedream 5.0 Pro · Qwen Image 3.0 · Z-Image · Prefect Pony XL</sub> |
-| 💬 **Text** | Chat and reasoning through compatible wire formats<br><sub>Claude Opus 5 · Gemini 3.1 Pro · DeepSeek V4 Pro · Kimi K3 · GLM 5.3 · Grok 4.6</sub> |
-| 🎧 **Audio** | Transcription<br><sub>HeartMuLa Transcribe</sub> |
+| 🎬 **Video** | Text-to-video, image-to-video, reference-to-video, editing, lip-sync and talking avatars, up to 4K<br><sub>Seedance 2.5 · Kling 3.0 · MiniMax H3 · Wan 3.0 · HappyHorse 1.1 · LTX 2.5 · Vidu Q3</sub> |
+| 🎨 **Image** | Generation, editing, LoRA, upscaling, face and head swap<br><sub>GPT Image 2.5 · Nano Banana Pro · Seedream 5.0 Pro · Qwen Image 3.0 · Krea 2 · Z-Image · FLUX.1 Dev LoRA</sub> |
+| 💬 **Text** | Chat and reasoning through compatible wire formats, with image, video and audio input on supported models<br><sub>Claude Opus 5.5 · Claude Sonnet 5.5 · Grok 4.7 · Gemini 3.7 Flash · DeepSeek V4 Pro · Kimi K3 · GLM 5.3</sub> |
+| 🎧 **Audio** | Text-to-speech, music and transcription<br><sub>Gemini 3.8 TTS · Suno v6 · MiniMax Music 3.0 · Seed Speech 2.0 · MiniMax Speech 2.8 · HeartMuLa Transcribe</sub> |
 
-<div align="right"><a href="https://spicyapi.ai/models"><b>Browse all 100+ endpoints »</b></a></div>
+<div align="right"><a href="https://spicyapi.ai/models"><b>Browse all 210+ endpoints »</b></a></div>
 
 <br>
 
@@ -86,7 +86,7 @@ us a `callBackUrl` and we will tell you.
 |:--|:--|:--|
 | **TypeScript** | `npm i @spicyapi/sdk` | [spicy-sdk](https://github.com/spicyapi-ai/spicy-sdk) |
 | **Go** | `go get github.com/spicyapi-ai/spicy-go` | [spicy-go](https://github.com/spicyapi-ai/spicy-go) |
-| **Python** | from source for now | [spicy-python](https://github.com/spicyapi-ai/spicy-python) |
+| **Python** | `pip install spicyapi` | [spicy-python](https://github.com/spicyapi-ai/spicy-python) |
 | **PHP** | from source for now | [spicy-php](https://github.com/spicyapi-ai/spicy-php) |
 | **Java** | from source for now | [spicy-java](https://github.com/spicyapi-ai/spicy-java) |
 
