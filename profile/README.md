@@ -99,6 +99,12 @@ us a `callBackUrl` and we will tell you.
 | **Agent Skill** | teaches Claude to drive any of the above | [spicy-skill](https://github.com/spicyapi-ai/spicy-skill) |
 | **Proxy** | call us from a browser app without shipping your key | [spicy-proxy](https://github.com/spicyapi-ai/spicy-proxy) |
 
+### For node-based workflows
+
+| | | Source |
+|:--|:--|:--|
+| **ComfyUI** | every image, video and audio model as a ComfyUI node, no GPU needed | [comfyui-spicyapi](https://github.com/spicyapi-ai/comfyui-spicyapi) |
+
 <br>
 
 <div align="center">
